@@ -43,23 +43,39 @@ Programming Software tools/platforms used
 ###COURSES TAKEN
 
 **1st Year**
- Discrete Mathematics  Web Programming
- Computer Programming  The Appreciation of Art
- Computer Architecture  Global Leadership
- Software Implementation pattern  Science Technology Writing
- Probability Statistics  History and Imagination
+ Discrete Mathematics
+ Web Programming
+ Computer Programming
+ The Appreciation of Art
+ Computer Architecture
+ Global Leadership
+ Software Implementation pattern
+ Science Technology Writing
+ Probability Statistics
+ History and Imagination
+
 **2nd Year**
- Object-Oriented Programming  Community Service
- Data Structure  Introduction to Economics
- Algorithm  Chinese 1
- Database System IT seminar
- Computer Network & Programming  Chinese2
+ Object-Oriented Programming
+ Community Service
+ Data Structure
+ Introduction to Economics
+ Algorithm
+ Chinese 1
+ Database System
+IT seminar
+ Computer Network & Programming
+ Chinese2
  Operating System
+
 **3rd Year**
- Mobile Programming  Software Engineering
- Computer Graphics  Graduation Project
- Robotics  Marketing
- Advanced Web Programming  History and Architecture
+ Mobile Programming
+ Software Engineering
+ Computer Graphics
+ Graduation Project
+ Robotics
+ Marketing
+ Advanced Web Programming
+ History and Architecture
  Distributed System
 
 ###HOBBIES
