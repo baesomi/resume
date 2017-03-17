@@ -5,7 +5,7 @@ Welcome to My Github!
 
 SOMI BAE
 -------------
-Address: 16413, 74, Irwolcheon-ro, Gwonseon-gu, Suwon-si, Gyeonggi-do, South Korea, E-mail: smbae0249@gmail.com Tel: +82-10-4739-xxxx
+Address: Secret 입니다^^
 
 EDUCATION
 -------------
